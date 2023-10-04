@@ -1,0 +1,58 @@
+functional interface: 
+
+java.util.function package 
+
+@Functional Interface
+public interface{
+void();
+}
+
+In selenium like Webdriver is Interface   we use chrome, safari,firefox.etc but we wanto to 
+add any fuctional on interface so we can go for @Functional Interface annotations.
+This functional interface is single abstract method or single interface method.so i create 
+interface class and create one void method and implements the methods in all browser.
+
+Ex.function input recevied and give a certain operation perfomed whatever  any output return type
+one input value accepted and given any certain value is given  is functional interface 
+
+predicate: 
+
+and its mild different any operation is going to conditional operation of boolean value  return type is predicate. reason is abstract method is call Test return is boolean value.
+
+
+any type input value accepted and done any operation  given boolean value is given  is predicate interface . method  -> test
+
+
+consumer:
+
+any type input value accepted and done any operation  but dont want given any output is consumer. methods--> accept,and,then
+
+
+
+supplier: no any input are given and retrieving and return the value.methods --> get()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+supplier: 
+
+supplier is opposite to consumer
+
+
+
+
